@@ -1,0 +1,1 @@
+Open the file "Main_Anlysis.m" file.Replace the test S-box with your any NxM S-box and run.These codes are uploaded purely for Acedamic purpose. 

@@ -1,2 +1,6 @@
 # S-box-Anlyses-Matlab-Codes
-Nonlinearity 
+Nonlinearity
+Strict Avalanch Criterion
+Linear Approximation Table
+Differential Approximation Table
+Correlation Analysis 
